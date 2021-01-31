@@ -88,7 +88,7 @@ html body{
 }
 /*Lugar*/
 .lugar{
-    background-image: url("/img/bar_interior.jpg");
+    background-image: url("../img/bar_interior.jpg");
 }
 
 /*Drinks*/
