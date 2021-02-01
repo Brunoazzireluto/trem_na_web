@@ -134,12 +134,12 @@ html body{
 }
 /*Lugar*/
 .lugar{
-    background-image: url("/img/bar_interior.jpg");
+    background-image: url("../img/bar_interior.jpg");
 }
 
 /*Drinks*/
 .drinks{
-    background-image: url("/img/drinks_background.jpg");
+    background-image: url("../img/drinks_background.jpg");
 }
 
 
